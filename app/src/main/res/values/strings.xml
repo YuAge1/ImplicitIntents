@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntentsApp</string>
+    <string name="open_website">Open Website</string>
+    <string name="open_map">Open Location in Map</string>
+</resources>
